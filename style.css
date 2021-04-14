@@ -176,7 +176,7 @@ blockquote::before{
 	display: block;
 	background-color: var(--limetka);
 	width: 150px;
-	height: 3px;
+	height: 2px;
 	margin: 10px auto;
 	margin-top: 30px;
 }
